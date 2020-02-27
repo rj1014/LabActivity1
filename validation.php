@@ -137,7 +137,7 @@ function invalidEmail($str =null){
                 echo "is valid<br>";
                 return false;
               } else {
-                echo("$str is not a valid email address<br>");
+                echo("is not a valid email address<br>");
                 return true;
               }
     }
